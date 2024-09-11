@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 Olá, Eu sou o Thiago Manhães!
+Bem-vindo ao meu perfil do GitHub, onde você encontrará alguns dos meus projetos e experimentos!
 
-<!--
-**THIAGOMQ/thiagomq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomq&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+🚀 Especialista:
+1. ⚙️ DevOps
+Ferramentas e frameworks que eu utilizo para automação, integração contínua e infraestrutura como código:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐳 Docker
+🕹️ Kubernetes
+☁️ AWS
+📦 Terraform
+🛠️ Ansible
+🛡️ Jenkins
+🌀 GitLab CI/CD
+
+2. 💻 Desenvolvimento Full Stack
+Tecnologias para desenvolvimento frontend, backend e bancos de dados:
+
+🌐 Frontend:
+⚛️ React
+🎨 Sass
+🚀 Next.js
+🔧 Backend:
+🐍 Python
+🛠️ Node.js
+🧵 Flask
+🦀 Rust
+🗄️ Banco de Dados:
+🐘 PostgreSQL
+🗃️ MongoDB
+📊 MySQL
+
+
+3. 📊 Análise de Dados
+Ferramentas para ciência de dados, machine learning e visualização:
+
+📈 Pandas
+🤖 Scikit-Learn
+🧠 TensorFlow
+📊 Power BI
+🔍 Matplotlib
+📉 Seaborn
+
+
+💡 Vamos construir algo incrível juntos!
