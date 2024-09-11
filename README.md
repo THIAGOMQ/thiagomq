@@ -4,47 +4,48 @@ Bem-vindo ao meu perfil do GitHub, onde você encontrará alguns dos meus projet
 🚀 Especialista:
 1. ⚙️ DevOps
 Ferramentas e frameworks que eu utilizo para automação, integração contínua e infraestrutura como código:
-
-🐳 Docker
-🕹️ Kubernetes
-☁️ AWS
-📦 Terraform
-🛠️ Ansible
-🛡️ Jenkins
-🌀 GitLab CI/CD
+  
+  🐳 Docker
+  🕹️ Kubernetes
+  ☁️ AWS
+  📦 Terraform
+  🛠️ Ansible
+  🛡️ Jenkins
+  🌀 GitLab CI/CD
 
 2. 💻 Desenvolvimento Full Stack
 Tecnologias para desenvolvimento frontend, backend e bancos de dados:
 
 🌐 Frontend:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" /> Vue.js
-🎨 Sass
-🚀 Next.js
-⚛️ React
-
-🔧 Backend:
-🐍 Python
-🛠️ Node.js
-🧵 Flask
-🦀 Rust
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" /> Vue.js
+  🎨 Sass
+  🚀 Next.js
+  ⚛️ React
+  
+  🔧 Backend:
+  
+  🐍 Python
+  🛠️ Node.js
+  🧵 Flask
+  🦀 Rust
 
 🗄️ Banco de Dados:
-
-🐘 PostgreSQL
-🗃️ MongoDB
-📊 MySQL
-
+  
+  🐘 PostgreSQL
+  🗃️ MongoDB
+  📊 MySQL
+  -- Neo4j
 
 3. 📊 Análise de Dados
 Ferramentas para ciência de dados, machine learning e visualização:
 
-📈 Pandas
-🤖 Scikit-Learn
-🧠 TensorFlow
-📊 Power BI
-🔍 Matplotlib
-📉 Seaborn
+  📈 Pandas
+  🤖 Scikit-Learn
+  🧠 TensorFlow
+  📊 Power BI
+  🔍 Matplotlib
+  📉 Seaborn
 
 <a href="https://github.com/thiagomq/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagomq" />
