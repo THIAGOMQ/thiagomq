@@ -1,8 +1,6 @@
 👋 Olá, Eu sou o Thiago Manhães!
 Bem-vindo ao meu perfil do GitHub, onde você encontrará alguns dos meus projetos e experimentos!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomq&show_icons=true&theme=radical)
-
 🚀 Especialista:
 1. ⚙️ DevOps
 Ferramentas e frameworks que eu utilizo para automação, integração contínua e infraestrutura como código:
